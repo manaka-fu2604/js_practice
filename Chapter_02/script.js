@@ -12,7 +12,7 @@ console.log("1たす1は" + 2); // →　1たす1は2
 // const weight = 50;
 let weight = 50;
 let height = 1.55;
-console.log("体重" + weight + "kg／身長" + height * 100 + "cmのBMI：");
+console.log("体重" + weight + "kg/身長" + height * 100 + "cmのBMI：");
 console.log(weight / (height * height)); // → 20.20..
 
 // const who = "World!!";
@@ -34,5 +34,7 @@ console.log("Good Morning! " + who);
 let x = 0;
 x++;
 console.log(x); // → 1
+x++;
+console.log(x); // → 2
 x--;
-console.log(x); // → 0
+console.log(x); // → 1
