@@ -37,8 +37,4 @@ console.log(x); // → 1
 x++;
 console.log(x); // → 2
 x--;
-<<<<<<< HEAD
-console.log(x); // → 0
-=======
 console.log(x); // → 1
->>>>>>> 02
