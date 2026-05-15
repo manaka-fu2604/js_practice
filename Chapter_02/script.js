@@ -37,4 +37,4 @@ console.log(x); // → 1
 x++;
 console.log(x); // → 2
 x--;
-console.log(x); // → 0
+console.log(x); // → 1
